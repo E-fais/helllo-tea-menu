@@ -11,9 +11,29 @@ let lunch = {
 }
 
 let snacks = {
-    pazham: 1,
-    bonda: 1,
-    kayippola: 2,
+   "Ulli Vada":1,
+   "Paripp Vada":1,
+   "Pazham pori":1,
+   Unda:1,
+   "Alu Bonda":1,
+   "Vettu Cake":1,
+   'Mulak Baji':1,
+   'Eethapazham Porichath':1,
+   'Masala Mutta':1,
+   'Ela Ada':1,
+   'Ela Ada':2,
+   'Kayi Pola':2,
+   'Chicken Cutlet':2,
+   'Mutta Pathiri':2,
+   'Chicken Pathiri':2,
+   'Elanji':2,
+   'Bread Omlette':2,
+   'Chicken Roll':2,
+   'Bread Baji':1,
+   'Bread Sweet':1,
+   'Samosa':1,
+   'Dounut':1,
+
 }
 let hotItems = {
     tea: 1,

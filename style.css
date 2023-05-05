@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
 body{
     background: black;
     color: white;
@@ -13,7 +14,8 @@ body{
     color: yellow;
     line-height:5px;
     text-align: center;
-    font-family: cursive;
+    font-family: 'Titan One', cursive;
+    font-size: 3rem;
 }
 .header-span{
     color:red;
@@ -61,4 +63,9 @@ body{
 }
 footer a{
     color: white;
+}
+@media(max-width:600px){
+    .header{
+        font-size:2.1rem
+    }
 }
