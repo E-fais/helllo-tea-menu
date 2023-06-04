@@ -10,8 +10,7 @@
 <body>
     <header>
         <h1 class="header">Hello Tea <span class="header-span">Cafeteria</span></h1>
-        <p class="header-adress">Street no:15,Industrial Area<br>  
-          <p class="header-address">Street no:15,Industrial Area<br>  
+        <p class="header-adress">Street no:15,Industrial Area<br>   
     <span class="phone-number">+974 30031041</span>
 </p>
 
@@ -37,6 +36,22 @@
         <!--break fast ends-->
 
         <div class="menu-div">
+            <h1 class="menu-title">Curry Items</h1>
+            <table>
+                <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody id="curry-body">
+            <!-- add items from menu.js -->
+            </tbody>
+            </table>
+        </div>
+        <!--curry ends-->
+
+        <div class="menu-div">
             <h1 class="menu-title">Lunch / Dinner </h1>
             <table>
                 <thead>
@@ -52,6 +67,21 @@
         </div>
         <!--lunch ends -->
 
+        <div class="menu-div">
+            <h1 class="menu-title">Sandwich/Burger </h1>
+            <table>
+                <thead>
+                <tr>
+                    <th>Item</th>
+                    <th>Price</th>
+                </tr>
+            </thead>
+            <tbody id="sandwich-body">
+            <!-- add items from menu.js -->
+            </tbody>
+            </table>
+        </div>
+        <!--sandwich ends -->
         <div class="menu-div">
             <h1 class="menu-title">Snacks </h1>
             <table>
@@ -104,7 +134,7 @@
     </section>
     </main>
     <footer class="footer">
-        <p >Copy rights @ Hello Tea Cafeteria-<span id='footer-date'></span> | Created by <a href="https://fais-resume.netlify.app/">fais designs</a></p>
+        <p >Copy rights @ Hello Tea Cafeteria-<span id='footer-date'></span> | Created by <a target="_blank" href="https://fais-resume.netlify.app/">fais designs</a></p>
     </footer>
 </body>
 <script src="menu.js"></script>
