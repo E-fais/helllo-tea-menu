@@ -1,8 +1,9 @@
 let breakFast = {
+     Appam: 1,
     Porotta: 1,
     " Wheat Porotta": 1,
     Chappathi: 1,
-    appam: 10,
+    appam: 1,
     "Poori Set": 5,
     "Iddaly Set": 5,
     Puttu: 3,
@@ -13,9 +14,9 @@ let breakFast = {
     Neypathal: 1,
     "Nice pathiri": "2/3",
     "Thattu Dosa": 4,
-    "Plain Dosa": 6,
+    "Plain Dosa": 4,
     "Masala Dosa": 6,
-    "Gee Dosa": 6,
+    "Gee Dosa": 5,
     "Onion Dosa": 5,
     "Egg Dosa": 5,
     "Curry Dosa": 12,
@@ -35,6 +36,7 @@ let curry = {
     "Fish BBQ": '',
     'Green Chilli Chicken BBQ': '12/24',
     'Pepper Chicken BBQ': '13/25',
+    'Butter Chicken':12,
     "Chicken Curry": 7,
     "Chicken Fry": 7,
     "Chicken 65": 7,
@@ -73,6 +75,7 @@ let curry = {
     "Greenpeace": "3/5",
     "Egg Curry": 4,
     "Egg Roast": 4,
+    'Egg Burji':5
 }
 let sandwich = {
 
@@ -83,7 +86,7 @@ let sandwich = {
     'Falafel Sandwich': 4,
     'Club Sandwich': 12,
     "Chicken Burger": "6/8/10",
-    "Vegetable Burger": "6/8/10",
+    "Vegetable Burger": "7/8/10",
     "Beef Burger": "6/8/10",
     "Shawarma": 5,
 }
@@ -125,13 +128,14 @@ let snacks = {
     'Bread Baji': 1,
     'Bread Sweet': 1,
     'Samosa': 1,
-    'Dounut': 1,
+    'Dounut': 2,
 
 }
 let hotItems = {
-    tea: 1,
+   "Karak Tea": 1,
+    'Samavar Tea',
     coffee: 2,
-    horlicks: 2,
+    horlicks: 3,
 }
 let juice = {
     'Lemon': 4,
