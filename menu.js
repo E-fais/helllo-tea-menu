@@ -133,7 +133,7 @@ let snacks = {
 }
 let hotItems = {
    "Karak Tea": 1,
-    'Samavar Tea',
+    'Samavar Tea':1,
     coffee: 2,
     horlicks: 3,
 }
