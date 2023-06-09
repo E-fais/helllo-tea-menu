@@ -1,5 +1,9 @@
-# Restaurant Menu QR Code Scanner.
-<img src='./menu-qr-code.jpg' alt='qr code' height=300 width=300/>
+<h1 align='center'>
+  Restaurant Menu QR Code Scanner
+  </h1>
+<p align='center'>
+<img src='./menu-qr-code.jpg' alt='qr code' height=400 width=300/>
+  </p>
 This is a web application that allows users to scan QR codes on restaurant menus and view the menu items in a user-friendly format.
 
 ## Technologies Used
